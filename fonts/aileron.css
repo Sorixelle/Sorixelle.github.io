@@ -1,0 +1,206 @@
+@font-face {
+    font-family: 'Aileron';
+    src:
+        local('Aileron UltraLight'),
+        local('Aileron'),
+        url('fonts/aileron/Aileron-UltraLight.otf')
+        format('opentype');
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src:
+        local('Aileron UltraLight'),
+        local('Aileron'),
+        url('fonts/aileron/Aileron-UltraLightItalic.otf')
+        format('opentype');
+    font-weight: 100;
+    font-style: italic, oblique;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src:
+        local('Aileron Thin'),
+        local('Aileron'),
+        url('fonts/aileron/Aileron-Thin.otf')
+        format('opentype');
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src:
+        local('Aileron Thin'),
+        local('Aileron'),
+        url('fonts/aileron/Aileron-Thin.otf')
+        format('opentype');
+    font-weight: 200;
+    font-style: italic, oblique;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src:
+        local('Aileron Light'),
+        local('Aileron'),
+        url('fonts/aileron/Aileron-Light.otf')
+        format('opentype');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src:
+        local('Aileron Light'),
+        local('Aileron'),
+        url('fonts/aileron/Aileron-LightItalic.otf')
+        format('opentype');
+    font-weight: 300;
+    font-style: italic, oblique;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src:
+        local('Aileron'),
+        url('fonts/aileron/Aileron-Regular.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src:
+        local('Aileron'),
+        url('fonts/aileron/Aileron-Italic.otf')
+        format('opentype');
+    font-style: italic, oblique;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src:
+        local('Aileron SemiBold'),
+        local('Aileron'),
+        url('fonts/aileron/Aileron-SemiBold.otf')
+        format('opentype');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src:
+        local('Aileron SemiBold'),
+        local('Aileron'),
+        url('fonts/aileron/Aileron-SemiBoldItalic.otf')
+        format('opentype');
+    font-weight: 500;
+    font-style: italic, oblique;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src:
+        local('Aileron Bold'),
+        local('Aileron'),
+        url('fonts/aileron/Aileron-Bold.otf')
+        format('opentype');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src:
+        local('Aileron Bold'),
+        local('Aileron'),
+        url('fonts/aileron/Aileron-BoldItalic.otf')
+        format('opentype');
+    font-weight: 700;
+    font-style: italic, oblique;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src:
+        local('Aileron Heavy'),
+        local('Aileron'),
+        url('fonts/aileron/Aileron-Heavy.otf')
+        format('opentype');
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src:
+        local('Aileron Heavy'),
+        local('Aileron'),
+        url('fonts/aileron/Aileron-HeavyItalic.otf')
+        format('opentype');
+    font-weight: 800;
+    font-style: italic, oblique;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src:
+        local('Aileron Black'),
+        local('Aileron'),
+        url('fonts/aileron/Aileron-Black.otf')
+        format('opentype');
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src:
+        local('Aileron Black'),
+        local('Aileron'),
+        url('fonts/aileron/Aileron-BlackItalic.otf')
+        format('opentype');
+    font-weight: 900;
+    font-style: italic, oblique;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.font-ultralight {
+    font-family: 'Aileron';
+    font-weight: 100;
+}
+
+.font-thin {
+    font-family: 'Aileron';
+    font-weight: 200;
+}
+
+.font-light {
+    font-family: 'Aileron';
+    font-weight: 300;
+}
+
+.font {
+    font-family: 'Aileron';
+}
+
+.font-semibold {
+    font-family: 'Aileron';
+    font-weight: 500;
+}
+
+.font-bold {
+    font-family: 'Aileron';
+    font-weight: 700;
+}
+
+.font-heavy {
+    font-family: 'Aileron';
+    font-weight: 800;
+}
+
+.font-black {
+    font-family: 'Aileron';
+    font-weight: 900;
+}

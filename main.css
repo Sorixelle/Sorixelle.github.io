@@ -1,0 +1,37 @@
+@import url('fonts/aileron.css');
+
+html, body, .landing-container {
+  height: 100%;
+  margin: 0;
+}
+
+.landing-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #ADF0FF;
+}
+
+.landing-container h1 {
+  font-size: 100px;
+  margin: 0;
+  color: #777;
+}
+
+.landing-container p {
+  font-size: 20px;
+  color: #777;
+}
+
+.img-stripes {
+  position: absolute;
+  right: 0%;
+  bottom: 0%;
+}
+
+.img-hearts {
+  position: absolute;
+  top: 5vh;
+  left: 2vw;
+}
