@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/srxl
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://srxl.cf
+  * I am srxl (https://keybase.io/srxl) on keybase.
+  * I have a public key ASBNHHP2JcUM3KcjySncCUWT57UAuA2PPvFDVxkldCUPwQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204d1c73f625c50cdca723c929dc094593e7b500b80d8f3ef14357192574250fc10a",
+      "host": "keybase.io",
+      "kid": "01204d1c73f625c50cdca723c929dc094593e7b500b80d8f3ef14357192574250fc10a",
+      "uid": "57eeb9b212f4b3a5ea0da9736a5a9719",
+      "username": "srxl"
+    },
+    "merkle_root": {
+      "ctime": 1558875501,
+      "hash": "8461561982739a96afade26cb09d9c5c21bdd6359bab9ce08797ae82d51474f63c0cc182373c9c2bf0be79a12ab27e59ae52666a8815ca26333958301d3612a1",
+      "hash_meta": "68b70902cda6dcf2bfdb6b30a9309961e59aebfaf84aa741ae86b408c9e9d6be",
+      "seqno": 5450115
+    },
+    "service": {
+      "entropy": "S9swpwt9d+xJcHtUPZpkgxG8",
+      "hostname": "srxl.cf",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1558875521,
+  "expire_in": 504576000,
+  "prev": "f2c30ab42746a66a93af4f22de82ebadf1d0cdcae875896935d206559ea3b9bd",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgTRxz9iXFDNynI8kp3AlFk+e1ALgNjz7xQ1cZJXQlD8EKp3BheWxvYWTESpcCC8Qg8sMKtCdGpmqTr08i3oLrrfHQzcrodYlpNdIGVZ6jub3EIAo2chT44HCVhMWXE3BProUttLhU4mGSXF/1UVENZge4AgHCo3NpZ8RAzqdeGNXJIFv+MaSgZuj8DhggmaG3Ldiw08qPmXa1a4P0TLyrQRL3MmtzGFWrc/VReyrULsXxx+ilHdoJsloBCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFvKYeyoIYWkjFkU2msTyUStovEdP2CFpZa/dvYevjiso3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/srxl
+
+==================================================================
